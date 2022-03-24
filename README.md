@@ -1,2 +1,2 @@
-# Odpisy
-Tento kód je na výpočet ekonomických odpisů. 
+# Odpisy.py
+Tento kód slouží k výpočtu ekonomických odpisů. 
